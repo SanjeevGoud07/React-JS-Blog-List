@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.List {
+  padding-left: 0;
+  list-style-type: none;
+}
+.Profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.Img {
+  width: 200px;
+}
+.heading {
+  color: #12022f;
+}
+.para {
+  color: #616e7c;
+  font-size: 20px;
+}
+.Para {
+  color: #9aa5b1;
+  font-size: 20px;
+}
